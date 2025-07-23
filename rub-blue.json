@@ -6,12 +6,12 @@
     "primary-color": "#fe8019",
     "warning-color": "#fb4934",
     "sidebar-color": "#282828",
-    "roomlist-background-color": "#1d2021",
+    "roomlist-background-color": "#E6EBEF",
     "roomlist-text-color": "#a89984",
     "roomlist-text-secondary-color": "#00ff00",
     "roomlist-highlights-color": "#00000030",
     "roomlist-separator-color": "#4d4d4d90",
-    "timeline-background-color": "#282828",
+    "timeline-background-color": "#E8EFCF",
     "timeline-text-color": "#ebdbb2",
     "secondary-content": "#928374",
     "tertiary-content": "#928374",
@@ -24,15 +24,19 @@
     "accent": "#689d6a",
     "alert": "#cc241d",
     "username-colors": [
-      "#FFCC00",
-      "#ED7102",
-      "#E6332A",
-      "#B61E3E",
-      "#C1BAA3",
-      "#8C8751",
-      "#9C5516",
-      "#59201B"
+        "#FFCC00",
+        "#ED7102",
+        "#E6332A",
+        "#B61E3E",
+        "#C1BAA3",
+        "#8C8751",
+        "#9C5516",
+        "#59201B"
     ],
-    "avatar-background-colors": ["#FFF5CC", "#FBE3CC", "#FAD6D4"]
+    "avatar-background-colors": [
+        "#FFF5CC", 
+        "#FBE3CC", 
+        "#FAD6D4"
+    ]
   }
 }
