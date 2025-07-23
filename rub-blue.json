@@ -1,19 +1,38 @@
 {
-    "name": "RUB Light-Blue",
-    "is_dark": false,
-    "colors": {
-        "accent-color": "#003560",
-        "primary-color": "#368bd6",
-        "warning-color": "#ff4b55",
-        "sidebar-color": "#99aebf",
-        "roomlist-background-color": "#fcfcfc",
-        "roomlist-text-color": "#efefef",
-        "roomlist-text-secondary-color": "#61708b",
-        "roomlist-highlights-color": "#e5eaef",
-        "roomlist-separator-color": "#e3e8f0",
-        "timeline-background-color": "#e5eaef",
-        "timeline-text-color": "#2e2f32",
-        "timeline-text-secondary-color": "#61708b",
-        "timeline-highlights-color": "#7f9aaf"
-    }
+  "name": "RUB Light",
+  "is_dark": false,
+  "colors": {
+    "accent-color": "#bd93f9",
+    "primary-color": "#fe8019",
+    "warning-color": "#fb4934",
+    "sidebar-color": "#282828",
+    "roomlist-background-color": "#1d2021",
+    "roomlist-text-color": "#a89984",
+    "roomlist-text-secondary-color": "#00ff00",
+    "roomlist-highlights-color": "#00000030",
+    "roomlist-separator-color": "#4d4d4d90",
+    "timeline-background-color": "#282828",
+    "timeline-text-color": "#ebdbb2",
+    "secondary-content": "#928374",
+    "tertiary-content": "#928374",
+    "quinary-content": "#504945",
+    "timeline-text-secondary-color": "#a89984",
+    "timeline-highlights-color": "#00000030",
+    "reaction-row-button-selected-bg-color": "#689d6a",
+    "menu-selected-color": "#504945",
+    "icon-button-color": "#928374",
+    "accent": "#689d6a",
+    "alert": "#cc241d",
+    "username-colors": [
+      "#FFCC00",
+      "#ED7102",
+      "#E6332A",
+      "#B61E3E",
+      "#C1BAA3",
+      "#8C8751",
+      "#9C5516",
+      "#59201B"
+    ],
+    "avatar-background-colors": ["#FFF5CC", "#FBE3CC", "#FAD6D4"]
+  }
 }
